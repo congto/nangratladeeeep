@@ -3,6 +3,7 @@ Lyric "Nang rat la deeeep"
 
 Nàng rất là đẹp
 
+```sh
 Đời anh thật tuyệt vời. 
 Tình anh thật sáng trong. 
 Nhưng anh chợt thấy một thiên thần 
@@ -48,3 +49,4 @@ Khi nàng nghĩ đến tôi sẽ ở bên nàng.
 Nhưng đã đến lúc phải đối diện với sự thật. 
 Rằng tôi sẽ không bao giờ... 
 Cưa được em.
+```
